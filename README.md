@@ -55,6 +55,5 @@ Once the prediction is made, we generate a contextual commentary like:
 
 ---
 
-## 🖥️ App Structure
 
 
