@@ -22,7 +22,6 @@ This project is a full-fledged **Streamlit app** that predicts the outcome of an
 - **Dataset**: [Kaggle IPL Dataset](https://www.kaggle.com/datasets)
 - **Initial model**: Logistic Regression — struggled with accuracy even after hyperparameter tuning.
 - **Optimized models**:
-  - **XGBoost** gave best results (based on F1-score — a balance between precision & recall)
   - **Random Forest** as fallback model
 - **Preprocessing**:
   - Label Encoding of categorical features
