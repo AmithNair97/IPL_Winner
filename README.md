@@ -35,7 +35,7 @@ Once the prediction is made, we generate a contextual commentary like:
 
 > "CSK wins the toss and elects to bat first. With their strong record at Chepauk, they look confident. Our model predicts a CSK win!"
 
-- **Model used**: `LLaMA 8B`
+- **Model used**: ` 𝗟𝗟𝗮𝗠𝗔𝟯-𝟴𝗕-𝟴𝟭𝟵𝟮 𝗺𝗼𝗱𝗲𝗹`
 - **Platform**: [Groq API](https://console.groq.com/)
 - **Inputs**: Teams, Toss, Venue, Predicted Winner
 
