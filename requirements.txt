@@ -1,0 +1,26 @@
+# Data & ML
+pandas
+numpy
+scikit-learn
+# For deep learning, add:
+# tensorflow
+# torch
+
+# MongoDB integration
+pymongo
+python-dotenv
+
+# Web app and API
+streamlit
+fastapi
+uvicorn
+
+# For API requests (Groq API, etc.)
+requests
+
+# For Docker (not required as a pip package, but add for local testing if needed)
+docker
+
+# For Jenkins integration (not required as a pip package, Jenkins is managed separately)
+# But you can add tools like pytest for testing in your CI/CD
+pytest
